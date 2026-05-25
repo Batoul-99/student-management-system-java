@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<hibernate-configuration>
+
+	<session-factory>
+
+		<property name="hibernate.connection.driver_class">com.mysql.cj.jdbc.Driver</property>
+		<property name="hibernate.connection.url">jdbc:mysql://localhost:3306/oop1_db</property>
+		<property name="hibernate.connection.username">root</property>
+		<property name="hibernate.connection.password"></property>
+
+		<property name="hibernate.dialect">org.hibernate.dialect.MySQLDialect</property>
+		<property name="hibernate.show_sql">true</property>
+		<property name="hibernate.hbm2ddl.auto">update</property>
+
+		<mapping class="Project_OOP1_2026.Student"/>
+		<mapping class="Project_OOP1_2026.Course"/>
+		<mapping class="Project_OOP1_2026.Enrollment"/>
+		<mapping class="Project_OOP1_2026.UndergraduateStudent"/>
+		<mapping class="Project_OOP1_2026.GraduateStudent"/>
+		<mapping class="Project_OOP1_2026.ExchangeStudent"/>
+
+	</session-factory>
+
+</hibernate-configuration>
