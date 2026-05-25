@@ -1,0 +1,5 @@
+202411309,Batoul Atris,batoulatris@gmail.com,Computer & Communication Engineering,2001,95.0,70.0
+202411309,Batoul Atris,batoulatris@gmail.com,Computer & Communication Engineering,2002,0.0,0.0
+202410988,Rim Wehbe,rimwehbe@gmail.com,Computer & Communication Engineering,2002,98.0,0.0
+202411607,Sara Salman,202411607@ua.edu.lb,Computer Science,2001,0.0,0.0
+202410999,Mira Sabagh,202410999@ua.edu.lb,Business,2001,0.0,0.0

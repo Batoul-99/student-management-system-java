@@ -1,0 +1,4 @@
+graduate,202410988,Rim Wehbe,rimwehbe@gmail.com,Computer & Communication Engineering,Drones,Charbel
+undergraduate,202411309,Batoul Atris,batoulatris@gmail.com,Computer & Communication Engineering,2
+undergraduate,202410999,Mira Sabagh,202410999@ua.edu.lb,Business,2
+exchange,202411607,Sara Salman,202411607@ua.edu.lb,Computer Science,Lebanese University,2
